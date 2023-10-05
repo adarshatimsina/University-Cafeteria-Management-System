@@ -1,0 +1,12 @@
+food03,Coffee,80.0,Veg,Drinks
+food04,Khanna Set,400,Non-Veg,Lunch
+food05,Pizza,600.0,Non-Veg,Snacks
+food06,Sausage,60.0,Non-Veg,Snacks
+food10,Coke 500ml,60.0,Vegan,Drinks
+food11,Bread Toast,80,Veg,Breakfast
+food12,Dhido,300.0,Non-Veg,Lunch
+food13,Lassi,80.0,Veg,Drinks
+food14,Aloo Stick,50.0,Veg,Snacks
+food16,Roti Tarkari,100.0,Veg,Breakfast
+food69,Expresso,160,Veg,Drinks
+

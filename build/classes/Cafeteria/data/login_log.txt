@@ -1,0 +1,292 @@
+User 'npi000139' (STUDENT) logged in at 2023-09-20 12:18:16
+
+User 'admin' (STAFF) logged in at 2023-09-20 12:23:11
+
+User 'admin' (STAFF) logged in at 2023-09-20 12:28:55
+
+Staff 'admin' deleted user 'NPI000169' at 2023-09-20 12:29:02
+
+User 'admin' (STAFF) logged in at 2023-09-20 12:30:25
+
+User 'admin' (STAFF) logged in at 2023-09-20 12:33:15
+
+Staff 'admin' deleted details of 'food18' at 2023-09-20 12:33:46
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 12:35:05
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 12:38:24
+
+User 'npi000139' (STUDENT) logged out at 2023-09-20 12:38:28
+
+User 'admin' (STAFF) logged in at 2023-09-20 12:39:19
+
+User 'admin' (STAFF) logged in at 2023-09-20 12:40:20
+
+User 'admin' (STAFF) logged in at 2023-09-20 12:41:06
+
+User 'npi000158' (STUDENT) logged in at 2023-09-20 13:24:31
+
+User 'admin' (STAFF) logged in at 2023-09-20 13:26:21
+
+User 'npi000158' (STUDENT) logged in at 2023-09-20 13:43:45
+
+User 'npi000158' (STUDENT) logged out at 2023-09-20 13:46:24
+
+User 'admin' (STAFF) logged in at 2023-09-20 13:46:30
+
+Staff 'admin' deleted details of 'NPI000160' at 2023-09-20 13:48:47
+
+User 'admin' (STAFF) logged in at 2023-09-20 15:04:01
+
+User 'npi000158' (STUDENT) logged in at 2023-09-20 15:51:23
+
+User 'npi000158' (STUDENT) logged out at 2023-09-20 15:51:32
+
+User 'admin' (STAFF) logged in at 2023-09-20 15:51:45
+
+User 'admin' (STAFF) logged out at 2023-09-20 15:52:04
+
+User 'admin' (STAFF) logged in at 2023-09-20 15:55:56
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 15:58:29
+
+User 'npi000139' (STUDENT) logged out at 2023-09-20 15:58:58
+
+User 'admin' (STAFF) logged in at 2023-09-20 15:59:05
+
+User 'npi000146' (STUDENT) logged in at 2023-09-20 16:04:40
+
+User 'npi000146' (STUDENT) logged out at 2023-09-20 16:05:15
+
+User 'admin' (STAFF) logged in at 2023-09-20 16:05:23
+
+User 'admin' (STAFF) logged in at 2023-09-20 17:19:59
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 18:42:19
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 18:43:37
+
+User 'admin' (STAFF) logged in at 2023-09-20 19:07:22
+
+User 'admin' (STAFF) logged in at 2023-09-20 19:53:01
+
+User 'admin' (STAFF) logged in at 2023-09-20 19:53:32
+
+User 'admin' (STAFF) logged in at 2023-09-20 19:56:07
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 20:19:24
+
+User 'NPI000139' (STUDENT) logged in at 2023-09-20 20:41:34
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 20:55:18
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 21:07:47
+
+User 'admin' (STAFF) logged in at 2023-09-20 21:36:06
+
+User 'NPI000139' (STUDENT) logged in at 2023-09-20 21:40:13
+
+User 'NPI000139' (STUDENT) logged out at 2023-09-20 21:40:15
+
+User 'NPI000139' (STUDENT) logged in at 2023-09-20 21:40:28
+
+User 'NPI000139' (STUDENT) logged out at 2023-09-20 21:41:04
+
+User 'admin' (STAFF) logged in at 2023-09-20 21:41:11
+
+User 'admin' (STAFF) logged out at 2023-09-20 21:41:30
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 21:41:41
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 21:47:43
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 22:18:07
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 22:24:03
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 22:26:12
+
+User 'admin' (STAFF) logged in at 2023-09-20 22:27:58
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 22:28:36
+
+User 'admin' (STAFF) logged in at 2023-09-20 22:29:24
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 22:33:52
+
+User 'npi000139' (STUDENT) logged out at 2023-09-20 22:34:16
+
+User 'admin' (STAFF) logged in at 2023-09-20 22:34:21
+
+Staff 'admin' deleted details of 'food15' at 2023-09-20 22:34:47
+
+User 'admin' (STAFF) logged in at 2023-09-20 22:36:08
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 22:57:16
+
+User 'npi000139' (STUDENT) logged in at 2023-09-20 23:09:21
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 08:50:18
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 08:50:56
+
+User 'NPI000139' (STUDENT) logged in at 2023-09-21 08:53:22
+
+User 'NPI000139' (STUDENT) logged out at 2023-09-21 08:53:50
+
+User 'admin' (STAFF) logged in at 2023-09-21 08:53:57
+
+User 'NPI000139' (STUDENT) logged in at 2023-09-21 08:57:51
+
+User 'NPI000139' (STUDENT) logged out at 2023-09-21 08:58:10
+
+User 'admin' (STAFF) logged in at 2023-09-21 08:58:17
+
+User 'admin' (STAFF) logged in at 2023-09-21 09:02:00
+
+User 'admin' (STAFF) logged in at 2023-09-21 09:06:27
+
+User 'admin' (STAFF) logged out at 2023-09-21 09:06:43
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 09:11:38
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 09:48:02
+
+User 'NPI000142' (STUDENT) logged in at 2023-09-21 09:49:11
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 09:50:27
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 09:51:07
+
+User 'NPI000168' (STUDENT) logged in at 2023-09-21 09:52:29
+
+User 'NPI000168' (STUDENT) logged out at 2023-09-21 09:52:44
+
+User 'admin' (STAFF) logged in at 2023-09-21 09:52:51
+
+User 'admin' (STAFF) logged in at 2023-09-21 09:57:35
+
+Staff 'admin' deleted details of 'NPI000151' at 2023-09-21 09:57:49
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 16:20:46
+
+User 'npi000139' (STUDENT) logged out at 2023-09-21 16:23:09
+
+User 'admin' (STAFF) logged in at 2023-09-21 16:24:23
+
+User 'admin' (STAFF) logged out at 2023-09-21 16:27:09
+
+User 'admin' (STAFF) logged in at 2023-09-21 20:45:45
+
+User 'admin' (STAFF) logged in at 2023-09-21 20:46:10
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 23:31:03
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 23:32:05
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 23:33:54
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 23:35:20
+
+User 'npi000139' (STUDENT) logged in at 2023-09-21 23:37:13
+
+User 'NPI000139' (STUDENT) logged in at 2023-09-22 01:06:27
+
+User 'NPI000139' (STUDENT) logged out at 2023-09-22 01:06:30
+
+User 'NPI000139' (STUDENT) logged in at 2023-09-22 01:10:13
+
+User 'NPI000139' (STUDENT) logged out at 2023-09-22 01:11:29
+
+User 'admin' (STAFF) logged in at 2023-09-22 01:11:35
+
+User 'admin' (STAFF) logged out at 2023-09-22 01:12:35
+
+User 'NPI000139' (STUDENT) logged in at 2023-09-22 01:12:48
+
+User 'npi000139' (STUDENT) logged in at 2023-09-22 01:16:04
+
+User 'npi000139' (STUDENT) logged in at 2023-09-22 01:19:08
+
+User 'npi000139' (STUDENT) logged out at 2023-09-22 01:22:19
+
+User 'admin' (STAFF) logged in at 2023-09-22 01:22:31
+
+User 'admin' (STAFF) logged in at 2023-09-22 01:31:36
+
+User 'admin' (STAFF) logged in at 2023-09-22 01:34:16
+
+User 'admin' (STAFF) logged in at 2023-09-22 11:13:54
+
+User 'admin' (STAFF) logged out at 2023-09-22 11:14:04
+
+User 'admin' (STAFF) logged in at 2023-09-22 11:15:16
+
+User 'admin' (STAFF) logged in at 2023-09-22 16:01:13
+
+User 'admin' (STAFF) logged in at 2023-09-23 11:44:53
+
+User 'NPI000139' (STUDENT) logged in at 2023-09-24 08:21:15
+
+User 'NPI000183' (STUDENT) logged in at 2023-09-24 08:40:19
+
+User 'NPi000183' (STUDENT) logged in at 2023-09-24 08:44:45
+
+User 'npi000183' (STUDENT) logged in at 2023-09-24 08:46:52
+
+User 'admin' (STAFF) logged in at 2023-09-24 08:49:10
+
+User 'admin' (STAFF) logged in at 2023-09-24 08:53:09
+
+User 'npi000158' (STUDENT) logged in at 2023-09-24 08:58:48
+
+User 'npi000158' (STUDENT) logged out at 2023-09-24 09:01:12
+
+User 'admin' (STAFF) logged in at 2023-09-24 09:01:25
+
+User 'admin' (STAFF) logged out at 2023-09-24 09:05:34
+
+User 'npi000139' (STUDENT) logged in at 2023-09-24 09:05:54
+
+User 'admin' (STAFF) logged in at 2023-09-24 09:06:59
+
+User 'npi000158' (STUDENT) logged in at 2023-09-24 09:09:53
+
+User 'npi000158' (STUDENT) logged out at 2023-09-24 09:10:42
+
+User 'admin' (STAFF) logged in at 2023-09-24 09:10:54
+
+User 'admin' (STAFF) logged in at 2023-09-24 12:04:43
+
+User 'admin' (STAFF) logged out at 2023-09-24 12:05:52
+
+User 'npi000189' (STUDENT) logged in at 2023-09-24 12:06:09
+
+User 'npi000189' (STUDENT) logged out at 2023-09-24 12:08:28
+
+User 'admin' (STAFF) logged in at 2023-09-24 12:08:34
+
+User 'admin' (STAFF) logged out at 2023-09-24 12:09:17
+
+User 'admin' (STAFF) logged in at 2023-09-24 12:23:08
+
+User 'admin' (STAFF) logged out at 2023-09-24 12:24:06
+
+User 'npi000139' (STUDENT) logged in at 2023-09-24 12:25:17
+
+User 'npi000139' (STUDENT) logged in at 2023-09-24 12:25:59
+
+User 'npi000170' (STUDENT) logged in at 2023-09-24 14:49:50
+
+User 'npi000170' (STUDENT) logged out at 2023-09-24 14:50:41
+
+User 'admin' (STAFF) logged in at 2023-09-24 14:50:48
+
+User 'admin' (STAFF) logged out at 2023-09-24 14:52:18
+
+User 'NpI000170' (STUDENT) logged in at 2023-09-24 14:52:35
+
+User 'NpI000170' (STUDENT) logged out at 2023-09-24 14:53:06
+
+User 'admin' (STAFF) logged in at 2023-09-24 14:53:13
+

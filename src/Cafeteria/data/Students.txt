@@ -1,0 +1,29 @@
+npi000138,pass138,Aashish Khadka
+npi000139,pass139,Adarsha Timsina
+npi000140,pass140,Ankit Acharya
+npi000141,pass141,Anmol Malla
+npi000142,pass142,Arjun Thapa
+npi000143,pass143,Bamshika Singh Khawas
+npi000144,pass144,Bhupendra Gurung
+npi000145,pass145,Bikash Parajuli
+npi000146,pass146,Dipendra Pun
+npi000149,pass149,Ishak Thapa
+npi000150,pass150,Jiten Chapagain
+npi000152,pass152,Karun Khanal Chhetri
+npi000153,pass153,Kritishma Thapa
+npi000155,pass155,Mahesh Thapa
+npi000156,pass156,Mausham Thapa Magar
+npi000157,pass157,Milan Poudel
+npi000158,pass158,Nabin Adhikari
+npi000161,pass161,Nischal Gurung
+npi000162,pass162,Nishan Gurung
+npi000163,pass163,Pappu Yadav
+npi000165,pass165,Pukar Nepali
+npi000166,pass166,Rabin Shress Magar
+npi000167,pass167,Rangin Basnet
+npi000168,pass168,Riden Paudel
+npi000170,pass170,Safal Acharya
+npi000171,pass171,Saiyam Rana
+npi000183,pass183,Tej Bahadur Khatri Kshetri
+npi000189,pass189,Ram Yadav
+

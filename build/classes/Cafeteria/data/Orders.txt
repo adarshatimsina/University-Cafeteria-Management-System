@@ -1,0 +1,43 @@
+01,Pizza,10,6000.0,7,npi000139
+02,Sausage,2,120.0,10,npi000139
+03,Pizza,2,1200.0,2,npi000158
+03,DalBhat,2,700.0,2,npi000158
+03,Coffee,4,320.0,2,npi000158
+04,MoMo,2,240.0,12,npi000141
+05,Coffee,5,400.0,2,npi000139
+05,Chowmein,2,200.0,2,npi000139
+06,MoMo,12,1440.0,2,npi000139
+07,Pizza,2,1200.0,1,npi000139
+09,Thakali Khanna,2,800.0,12,npi000139
+09,Coffee,2,160.0,12,npi000139
+09,Pizza,1,600.0,12,npi000139
+Order02,Momo,4,480.0,10,npi000150
+Order02,Lassi,4,320.0,10,npi000150
+Order02,Buff Jhir,2,200.0,10,npi000150
+Order02,Sausage,2,120.0,10,npi000150
+17,Momo,2,240.0,2,npi000177
+17,Pizza,1,600.0,2,npi000177
+17,Lassi,4,320.0,2,npi000177
+19,Pizza,2,1200.0,7,npi000158
+19,Coke 500ml,2,120.0,7,npi000158
+19,Roti Tarkari,1,100.0,7,npi000158
+19,Thakali Khanna,4,1600.0,7,npi000158
+19,Dhido,2,600.0,7,npi000158
+19,Lassi,5,400.0,7,npi000158
+order04,Coke 500ml,2,120.0,2,npi000139
+order05,Roti Tarkari,2,200.0,1,npi000139
+order69,Pizza,2,1200.0,2,npi000139
+order69,Sausage,4,240.0,2,npi000139
+order69,Coke 500ml,2,120.0,2,npi000139
+order20,Coffee,3,240.0,3,NPI000183
+order20,Bread Toast,3,240.0,3,NPI000183
+order21,Lassi,2,160.0,3,NPi000183
+order22,Lassi,3,240.0,1,npi000183
+123,Pizza,2,1200.0,2,npi000158
+123,Coffee,2,160.0,2,npi000158
+989,Expresso,3,480.0,3,npi000158
+989,Bread Toast,2,160.0,3,npi000158
+food123,Pizza,2,1200.0,3,npi000189
+food123,Coke 500ml,2,120.0,3,npi000189
+food69420,Pizza,1,600.0,1,npi000170
+food69420,Coke 500ml,2,120.0,1,npi000170
