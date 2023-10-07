@@ -1,18 +1,3 @@
 admin,admin,admin
-apu01,pass01,Sushil Adhikari
-apu02,pass02,Bikash Pahari
-apu03,pass03,Sandhaya Baral
-apu04,pass04,Esha Baral
-apu05,pass05,Pratima Baral
-apu06,pass06,Sambhu Baral
-apu07,pass07,Arjun Sigdel
-apu08,pass08,Bal Krishna Neupane
-apu09,pass09,Laxmi Bastola
-apu10,pass10,Anjan Pokhrel
-apu11,pass11,Yubaraj Sharma
-apu12,pass12,Manju Subedi
-apu13,pass13,Sonica Bhari
-apu14,pass14,Sarita Baral
-apu15,pass15,Jupiter Tamrakar
-apu16,pass16,Rup Gurung
-apu17,pass17,Siddharta Baral
+apu01,pass01,Ram Dai
+
