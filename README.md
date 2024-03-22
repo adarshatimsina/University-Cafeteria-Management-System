@@ -11,3 +11,4 @@ Front Page GUI:
 
 ![a](https://github.com/adarshatimsina/University-Cafeteria-Management-System/assets/108563187/16cf21ef-d86d-4273-b8f4-f8a1f893d042)
 
+Note: This project was designed for assignment.
